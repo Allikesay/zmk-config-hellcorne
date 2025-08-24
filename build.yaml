@@ -23,4 +23,5 @@ include:
     shield: Allikecorne_left
   - board: nice_nano_v2
     shield: Allikecorne_right
-    
+  - board: nice_nano_v2
+    shield: settings_reset
